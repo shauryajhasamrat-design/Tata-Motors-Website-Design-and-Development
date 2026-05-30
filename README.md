@@ -1,11 +1,18 @@
-# Payment Date Prediction System
-## (Official internship program title: Tata Motors Website Design and Development — Tata Motors)
+# Tata Motors Website Design and Development
+
 📌 Overview
 
 
-This project was completed during my internship experience as part of the Tata Motors Website Design and Development project. My contribution focused on data handling, analytical tasks, data preprocessing, feature engineering, and supporting Machine Learning workflows to improve business process efficiency and reporting.
+This project was completed during my internship at Tata Motors as part 
+of the Tata Motors Website Design and Development project. My contribution 
+focused on building a Payment Date Prediction System — an end-to-end 
+Machine Learning solution designed to forecast invoice payment dates and 
+improve cash flow management. My work involved data handling, analytical 
+tasks, data preprocessing, feature engineering, and supporting ML workflows 
+to improve business process efficiency and financial reporting.
 
-Due to company confidentiality policies, the source code and datasets cannot be shared publicly.
+Due to company confidentiality policies, the source code and datasets 
+cannot be shared publicly.
 
 🚀 Responsibilities
 
